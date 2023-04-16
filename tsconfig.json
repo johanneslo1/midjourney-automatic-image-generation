@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2021",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "strict": false,
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

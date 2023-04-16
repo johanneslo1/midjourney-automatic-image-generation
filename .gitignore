@@ -1,0 +1,5 @@
+/persist
+/images
+/node_modules
+.env
+/.idea

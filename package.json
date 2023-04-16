@@ -1,0 +1,36 @@
+{
+  "name": "midjourney-shutterstock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technikclou/midjourney-shutterstock.git"
+  },
+  "author": "Johannes Lohmann (technikclou.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technikclou/midjourney-shutterstock/issues"
+  },
+  "homepage": "https://github.com/technikclou/midjourney-shutterstock#readme",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "exifr": "^7.1.3",
+    "midjourney-client": "^1.0.8",
+    "node-persist": "^3.1.3",
+    "openai": "^3.2.1",
+    "piexifjs": "^1.0.4",
+    "sharp": "^0.32.0",
+    "signale": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node-persist": "^3.1.3",
+    "@types/signale": "^1.4.4"
+  }
+}
